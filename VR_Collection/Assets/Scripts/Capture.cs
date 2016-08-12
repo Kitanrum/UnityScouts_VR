@@ -44,8 +44,6 @@ public class Capture : MonoBehaviour {
             hard = GameObject.FindGameObjectWithTag("Hard");
             float crate = rate[Random.Range(0,rate.Length)];
             HardRate(crate);
-
-            Debug.Log(crate);
         }
     }
 

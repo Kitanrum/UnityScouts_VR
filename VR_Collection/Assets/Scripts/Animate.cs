@@ -17,7 +17,7 @@ public class Animate : MonoBehaviour {
 
 	void Start () {
 
-        anim.Play("Bla_Idle");
+        //anim.Play("Bla_Idle");
 	
 	}
 	

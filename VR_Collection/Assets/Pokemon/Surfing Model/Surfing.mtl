@@ -1,0 +1,12 @@
+# Blender MTL File: 'Object Lighting for VG Resource thumbnails.blend'
+# Material Count: 1
+
+newmtl ob0002.png
+Ns 96.078431
+Ka 0.000000 0.000000 0.000000
+Kd 0.756882 0.345972 0.784788
+Ks 0.500000 0.500000 0.500000
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Textures\\ob0002.png
